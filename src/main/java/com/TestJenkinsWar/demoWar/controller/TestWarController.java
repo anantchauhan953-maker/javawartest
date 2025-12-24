@@ -10,6 +10,6 @@ public class TestWarController {
 
     @GetMapping("/hello")
     public String getMsg() {
-        return "Hello World! Jenkins ";
+        return "Hello World! Jenkins testing ";
     }
 }

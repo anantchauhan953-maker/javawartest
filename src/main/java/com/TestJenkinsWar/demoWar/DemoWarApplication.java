@@ -9,7 +9,7 @@ public class DemoWarApplication {
 	public static void main(String[] args) {
 
         SpringApplication.run(DemoWarApplication.class, args);
-        System.out.println("TestJenkinsApplication War started");
+        System.out.println("TestJenkinsApplication War started testing");
 	}
 
 }
